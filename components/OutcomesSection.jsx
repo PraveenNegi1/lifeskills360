@@ -20,7 +20,6 @@ export default function OutcomesSection() {
   return (
     <section className="w-full bg-[#f4f7f8] py-20 px-6 md:px-12 lg:px-20">
       <div className="max-w-7xl mx-auto text-center">
-        {/* Top Tag */}
         <span className="inline-block bg-red-100 text-red-500 px-5 py-2 rounded-full text-sm font-medium mb-6">
           The Problem
         </span>
