@@ -6,8 +6,9 @@ export default function ProblemSection() {
       <div className="max-w-7xl mx-auto px-6 text-center">
         
         {/* Badge */}
-        <div className="inline-block bg-green-200 text-green-500 px-5 py-2 rounded-full text-sm font-medium mb-6">
-          Outcomes
+        <div className="inline-block bg-red-100 text-red-500 px-5 py-2 rounded-full text-sm font-medium mb-6">
+          The Problem
+
         </div>
 
         {/* Heading */}
