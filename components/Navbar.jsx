@@ -10,7 +10,9 @@ export default function Navbar() {
         {/* LEFT: Logo */}
         <div className="text-2xl font-bold">
           <span className="text-blue-900">LifeSkills</span>
-          <span className="text-teal-400">360.in</span>
+          <span className="text-teal-400">360.</span>
+                    <span className="text-blue-900">in</span>
+
         </div>
 
         {/* RIGHT: Links + Button */}

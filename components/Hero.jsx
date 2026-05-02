@@ -12,7 +12,7 @@ export default function Hero() {
             For Schools · Grades 6–8
           </div>
 
-          <h1 className="text-4xl md:text-5xl font-bold leading-tight text-[#1f2a44]">
+          <h1 className="text-4xl  font-bold leading-tight text-[#1f2a44]">
             Students score well in exams.{" "}
             <span className="text-blue-800">But struggle</span>{" "}
             <span className="text-teal-500">with real life.</span>

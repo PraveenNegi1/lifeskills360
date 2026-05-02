@@ -1,7 +1,10 @@
+import ForSchoolsSection from "@/components/ForSchoolsSection";
 import Hero from "@/components/Hero";
+import MoneyMagicBox from "@/components/MoneyMagicBox";
 import OutcomesSection from "@/components/OutcomesSection";
 import ProblemSection from "@/components/ProblemSection";
 import SolutionSection from "@/components/SolutionSection";
+import TrustStatsSection from "@/components/TrustStatsSection";
 
 export default function Home() {
   return (
@@ -10,6 +13,9 @@ export default function Home() {
     <ProblemSection />
     <SolutionSection />
     <OutcomesSection />
+    <MoneyMagicBox />
+    <ForSchoolsSection />
+    <TrustStatsSection />
    </div>
   );
 }

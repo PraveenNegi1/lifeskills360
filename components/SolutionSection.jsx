@@ -10,7 +10,7 @@ export default function SolutionSection() {
             Our Solution
           </span>
 
-          <h2 className="text-5xl font-bold text-[#1c2b4a] leading-tight mb-6">
+          <h2 className="text-4xl font-bold text-[#1c2b4a] leading-tight mb-6">
             We turn learning into real{" "}
             <span className="text-[#2fa7a0]">-life practice</span>
           </h2>
