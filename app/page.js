@@ -1,3 +1,4 @@
+import DemoCTASection from "@/components/DemoCTASection";
 import ForSchoolsSection from "@/components/ForSchoolsSection";
 import Hero from "@/components/Hero";
 import MoneyMagicBox from "@/components/MoneyMagicBox";
@@ -16,6 +17,7 @@ export default function Home() {
     <MoneyMagicBox />
     <ForSchoolsSection />
     <TrustStatsSection />
+    <DemoCTASection />
    </div>
   );
 }

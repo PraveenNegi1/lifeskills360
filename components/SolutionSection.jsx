@@ -40,10 +40,10 @@ export default function SolutionSection() {
           <div className="bg-[#cfe3df] p-4 rounded-3xl">
             <div className="rounded-2xl overflow-hidden">
               <Image
-                src="/student 1.png" 
+                src="/oursloution.jpeg" 
                 alt="Learning Illustration"
-                width={600}
-                height={500}
+                width={500}
+                height={400}
                 className="w-full h-auto object-cover"
                 priority
               />

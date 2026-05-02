@@ -32,7 +32,7 @@ export default function MoneyMagicBox() {
             <Image
               src="/monymagicbox.jpeg" 
               alt="Money Magic Box"
-              width={500}
+              width={550}
               height={500}
               className="mx-auto object-contain"
               priority

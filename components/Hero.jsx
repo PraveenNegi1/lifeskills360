@@ -50,7 +50,7 @@ export default function Hero() {
         <div className="relative flex justify-center">
           <div className="rounded-3xl overflow-hidden shadow-lg border border-gray-200">
             <Image
-              src="/heroimage.png"
+              src="/heroimage.jpeg"
               alt="students"
               width={500}
               height={500}
