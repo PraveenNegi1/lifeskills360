@@ -5,12 +5,12 @@ import Image from "next/image";
 export default function Hero() {
   return (
     <section className="w-full ">
-      <div className="max-w-7xl mx-auto px-6 py-20 grid md:grid-cols-2 items-center gap-12">
+      <div className="max-w-7xl mx-auto px-2 py-16 grid md:grid-cols-2 items-center gap-12">
         <div>
-          <div className="inline-flex items-center gap-2 bg-teal-100 text-teal-700 px-4 py-2 rounded-full text-sm font-medium mb-6">
+          {/* <div className="inline-flex items-center gap-2 bg-teal-100 text-teal-700 px-4 py-2 rounded-full text-sm font-medium mb-6">
             <span className="w-2 h-2 bg-teal-500 rounded-full font-semibold"></span>
             For Schools · Grades 6–8
-          </div>
+          </div> */}
 
           <h1 className="text-4xl  font-bold leading-tight text-[#1f2a44]">
             Students score well in exams.{" "}
