@@ -7,7 +7,6 @@ export default function Footer() {
     <footer className="bg-[#091853] text-gray-300 px-6 md:px-16 py-14 rounded-t-2xl">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-10">
-          {/* COURSES */}
           <div>
             <h4 className="text-white font-semibold mb-4 uppercase text-sm">
               Courses
@@ -40,7 +39,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* GRADE BANDS */}
           <div>
             <h4 className="text-white font-semibold mb-4 uppercase text-sm">
               Grade Bands
@@ -67,7 +65,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* FOR SCHOOLS */}
           <div>
             <h4 className="text-white font-semibold mb-4 uppercase text-sm">
               For Schools (B2B)
@@ -97,7 +94,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* FOR STUDENTS */}
           <div>
             <h4 className="text-white font-semibold mb-4 uppercase text-sm">
               For Students & Parents (B2C)
@@ -124,7 +120,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* RESOURCES */}
           <div>
             <h4 className="text-white font-semibold mb-4 uppercase text-sm">
               Resources
@@ -148,7 +143,6 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* COMPANY */}
           <div>
             <h4 className="text-white font-semibold mb-4 uppercase text-sm">
               Company
@@ -173,7 +167,6 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* BOTTOM */}
         <div className="border-t border-gray-300 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400 gap-4">
           <p>© 2026 LifeSkills360 Platform. Building future-ready kids.</p>
 
