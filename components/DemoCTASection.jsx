@@ -1,6 +1,6 @@
 export default function DemoCTASection() {
   return (
-    <section className="w-full bg-[#f4f7f8] py-20 px-6 md:px-12 lg:px-14">
+    <section id="contact" className="w-full bg-[#f4f7f8] py-20 px-6 md:px-12 lg:px-14">
       <div className="max-w-5xl mx-auto">
         
         {/* Main Container */}

@@ -18,7 +18,7 @@ export default function ForSchoolsSection() {
   ];
 
   return (
-    <section className="w-full bg-[#f4f7f8] py-20 px-6 md:px-12 lg:px-20 text-center">
+    <section id="schools" className="w-full bg-[#f4f7f8] py-20 px-6 md:px-12 lg:px-20 text-center">
       <div className="max-w-7xl mx-auto">
         
         {/* Top Badge */}

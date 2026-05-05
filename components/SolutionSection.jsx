@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function SolutionSection() {
   return (
-    <section className="w-full bg-[#f4f7f8] py-16 px-6 md:px-12 lg:px-20">
+    <section id="solution" className="w-full bg-[#f4f7f8] py-16 px-6 md:px-12 lg:px-20">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         
         <div>
